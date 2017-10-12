@@ -4,4 +4,4 @@ This is a repository for all my kaggle solutions. Please refer to the source cod
 Lists of ranking below : 
 
 1. Titanic - 0.81, Top 7%
-2. Leaf Classication - 0.15xx (0.0 as perfect score), Late submission
+2. Leaf Classication - 0.033x (0.0 as perfect score), Late submission
